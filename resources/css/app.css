@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import 'components/sauce.css';
+@import 'components/location.css';
+
+html {
+    scroll-behavior: smooth;
+}
